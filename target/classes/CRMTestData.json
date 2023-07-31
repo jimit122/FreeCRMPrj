@@ -1,0 +1,27 @@
+[ {
+  "username" : "guest8nikunj@gmail.com",
+  "password" : "Test4fun",
+  "firstname" : "Jimit",
+  "lastname" : "Shah",
+  "address" : {
+    "addr1" : "276 W. Alcala Ave",
+    "addr2" : "",
+    "city" : "Tracy",
+    "state" : "California",
+    "zipcode" : "95391"
+  },
+  "phonenumber" : "5109018461"
+}, {
+  "username" : "krutigparikh@gmail.com",
+  "password" : "Fun2Test",
+  "firstname" : "Kruti",
+  "lastname" : "Shah",
+  "address" : {
+    "addr1" : "127 W. Alcala Ave",
+    "addr2" : "Apt 123",
+    "city" : "Tracy",
+    "state" : "California",
+    "zipcode" : "95391"
+  },
+  "phonenumber" : "9259220316"
+} ]
